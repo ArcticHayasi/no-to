@@ -2,14 +2,14 @@
 
 ## 教程
 
-#### 代码之类的
+### 代码之类的
 
 * GitHub: [Jekyll-Archives](https://github.com/jekyll/jekyll-archives) (untested)
 * HTML basic: [W3Schools](https://www.w3schools.com/)
 * LaTex: [Simple curves](https://www.overleaf.com/learn/latex/LaTeX_Graphics_using_TikZ:_A_Tutorial_for_Beginners_(Part_1)%E2%80%94Basic_Drawing)
 * LaTex / Markdown: [Mathematics](https://www.calvin.edu/~rpruim/courses/s341/S17/from-class/MathinRmd.html)
 
-#### 别的什么的
+### 别的什么的
 
 * 教程：[小狼毫简明配置指南](https://www.jianshu.com/p/296bba666604?open=1)
 * 库：[Rime 翰林院](https://github.com/rime-aca)
@@ -19,7 +19,7 @@
 
 ## 各个主页
 
-#### 亚文化、读写
+### 亚文化、读写
 
 * [AO3](https://archiveofourown.org/)
 * [长毛象文学社](https://mastodonnovelclub.boards.net/)
@@ -31,60 +31,59 @@
 
 ## 资源、资料
 
-#### 中文
+### 中文
 
 * [无产阶级图书馆：一般图书馆](https://library.proletarian.me/My_library_table.php) （主站崩了，分站能用。）
 * 中文马克思主义文库：[马克思恩格斯全集](https://www.marxists.org/chinese/marx-engels/index.htm)
 * 中文马克思主义文库：[毛泽东](https://www.marxists.org/chinese/maozedong/index.htm)
 * [中国哲学书电子化计划](https://ctext.org/pre-qin-and-han/zhs)
-* <u><b>性别暴力事件新闻不完全记录</b></u> [中国男性之恶](https://cnwoman-bot.github.io/evil-man/)
+* <strong><u>性别暴力事件新闻不完全记录</u></strong> [中国男性之恶](https://cnwoman-bot.github.io/evil-man/)
 
-#### 英文
+### 英文
 
 * [Library Genesis](http://gen.lib.rus.ec/)
 * [ZLibrary.Asia](https://b-ok.as/) or [ZLibrary Articles](https://booksc.org/)
 * 全球新闻整合：[W3Newspapers](https://www.w3newspapers.com/)
-* 用处不大：
-[Gutenberg](http://www.gutenberg.org/) | [Planet eBook](https://www.planetebook.com/) | [Bookyards](https://www.bookyards.com/en) | [FreeBookSpot](http://www.freebookspot.es/) | [Luminos (UC Press)](https://www.luminosoa.org/site/) | [Manchester Openhive (MU Press)](https://www.manchesteropenhive.com/) | [Forgotten Books](https://www.forgottenbooks.com/en) (most need purchase) |
+* 用处不大：<br>[Gutenberg](http://www.gutenberg.org/) | [Planet eBook](https://www.planetebook.com/) | [Bookyards](https://www.bookyards.com/en) | [FreeBookSpot](http://www.freebookspot.es/) | [Luminos (UC Press)](https://www.luminosoa.org/site/) | [Manchester Openhive (MU Press)](https://www.manchesteropenhive.com/) | [Forgotten Books](https://www.forgottenbooks.com/en) (most need purchase) |
 * 特别学科：
- * Feminism related: [Cita Press](https://citapress.org/#home), [A WP blog](https://12rec5.wordpress.com/) no longer updated
- * Administration related: [Open Access Gov](https://www.openaccessgovernment.org/)
- * Anthropology related: [HAU Books](https://haubooks.org/)
+  * Feminism related: [Cita Press](https://citapress.org/#home), [A WP blog](https://12rec5.wordpress.com/) no longer updated
+  * Administration related: [Open Access Gov](https://www.openaccessgovernment.org/)
+  * Anthropology related: [HAU Books](https://haubooks.org/)
 * 论文（？）：[Sci-Hub](https://sci-hub.tw/)
 
-#### 影视
+### 影视
 
 * 字幕组：
- * [亿万同人字幕组](http://ywtrzm.com/)（les only）
- * [NEW 字幕站](https://newzmz.com/index.html)
+  * [亿万同人字幕组](http://ywtrzm.com/)（les only）
+  * [NEW 字幕站](https://newzmz.com/index.html)
 
 -----
 
 ## 工具
 
-#### 外语学习
+### 外语学习
 
 * [ひらがな めがね](http://www.hiragana.jp/index.html)：输入网址，自动加上假名注音
 * [MOJI 辞書](https://www.mojidict.com/)
-* <u><b>好用！</b></u> [DeepL Translate](https://www.deepl.com/translator)
+* <strong><u>好用！</strong></u> [DeepL Translate](https://www.deepl.com/translator)
 * [Linggle](https://linggle.com/)：词语搭配
 * 英语文章校对：[Typely](https://typely.com/) | [Hemingway Editor](http://www.hemingwayapp.com/) | [Common Error Detector (PolyU HK)](http://www2.elc.polyu.edu.hk/cill/errordetector.htm) |
 * 用么好像没什么用删么又实在舍不得删：[Academic Word List](http://www.uefap.com/vocab/select/awl.htm) | [AWL Profiler](http://www4.caes.hku.hk/vocabulary/profile.htm) | [Green's Dictionary of Slang](https://greensdictofslang.com/) | [田间小站](https://www.tjxz.cc/) |
 
-#### 不知道怎么归纳但还是蛮有用的看起来
+### 不知道怎么归纳但还是蛮有用的看起来
 
 * [Wins 优质应用合集](https://github.com/Awesome-Windows/Awesome)
 * Markdown：[Zen](https://zen.unit.ms/)
 * 方言：[溫嶺吳語微辭典](https://qaanlid.wordpress.com/?tdsourcetag=s_pcqq_aiomsg)
 * 树洞：[TzCafe 树洞](https://forms.yandex.com/u/5e26953f119d8b0d0aa434fc/)
-* <u><b>汉语能力迅速提升.jpg</b></u> [写作大词海、历代古诗文 2019 下载](http://www.zhsc.com/indexgb.htm)
+* <strong><u>汉语能力迅速提升.jpg</u></strong> [写作大词海、历代古诗文 2019 下载](http://www.zhsc.com/indexgb.htm)
 * [Chrome 插件](https://chrome.zzzmh.cn/index)
 
-#### 乱七八糟的一堆，估计这辈子都用不上
+### 乱七八糟的一堆，估计这辈子都用不上
 
 * 数学：[绘制函数](https://zh.numberempire.com/graphingcalculator.php)
 * 数据：[Find Data](https://www.icpsr.umich.edu/web/pages/ICPSR/index.html)
-* 文本、PDF、其它编辑器：[Typeboost](https://www.typeboost.io/)：倒计时写作 |  [Icecream PDF Editor (Wins) 下载](https://icecreamapps.com/PDF-Editor/)
+* 文本、PDF、其它编辑器：<br>[Typeboost](https://www.typeboost.io/)：倒计时写作 |  [Icecream PDF Editor (Wins) 下载](https://icecreamapps.com/PDF-Editor/)
 * 测试：[Reading Speed](http://pages.email.nypl.org/speed-read/index?PromoSrc=2016_Speed_Reading_Quiz_FB&utm_source=Facebook&utm_medium=referral&utm_term=2016SpeedReadingQuiz&utm_content=FB02&utm_campaign=2016SpeedReadingQuiz)
 * 宇宙：[太阳系全景](https://720yun.com/t/eb42ejpvu1a?scene_id=365147)
 

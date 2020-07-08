@@ -1,1 +1,1 @@
-##### [各个网站](https://arctichayasi.github.io/no-to/webisites-collection.md)
+##### [各个网站](https://arctichayasi.github.io/no-to/_posts/2020-07-09-websites-collection.md)

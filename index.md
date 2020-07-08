@@ -37,7 +37,7 @@
 * 中文马克思主义文库：[马克思恩格斯全集](https://www.marxists.org/chinese/marx-engels/index.htm)
 * 中文马克思主义文库：[毛泽东](https://www.marxists.org/chinese/maozedong/index.htm)
 * [中国哲学书电子化计划](https://ctext.org/pre-qin-and-han/zhs)
-* <b><u>性别暴力事件新闻不完全记录</u></b> [中国男性之恶](https://cnwoman-bot.github.io/evil-man/)
+* <u><b>性别暴力事件新闻不完全记录</b></u> [中国男性之恶](https://cnwoman-bot.github.io/evil-man/)
 
 #### 英文
 
@@ -65,7 +65,7 @@
 
 * [ひらがな めがね](http://www.hiragana.jp/index.html)：输入网址，自动加上假名注音
 * [MOJI 辞書](https://www.mojidict.com/)
-* <b><u>好用！</b></u> [DeepL Translate](https://www.deepl.com/translator)
+* <b><u>好用！</u></b> [DeepL Translate](https://www.deepl.com/translator)
 * [Linggle](https://linggle.com/)：词语搭配
 * 英语文章校对：[Typely](https://typely.com/) | [Hemingway Editor](http://www.hemingwayapp.com/) | [Common Error Detector (PolyU HK)](http://www2.elc.polyu.edu.hk/cill/errordetector.htm) |
 * 用么好像没什么用删么又实在舍不得删：[Academic Word List](http://www.uefap.com/vocab/select/awl.htm) | [AWL Profiler](http://www4.caes.hku.hk/vocabulary/profile.htm) | [Green's Dictionary of Slang](https://greensdictofslang.com/) | [田间小站](https://www.tjxz.cc/) |

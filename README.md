@@ -1,4 +1,4 @@
 # nooto
 
-* [各个网站](https://arctichayasi.github.io/no-to/webco.md)
+* [各个网站](https://arctichayasi.github.io/nooto/webco.md)
 * [GitHub](webco.md)

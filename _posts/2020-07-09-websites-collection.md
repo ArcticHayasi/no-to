@@ -68,7 +68,7 @@
 * <strong><u>好用！</strong></u> [DeepL Translate](https://www.deepl.com/translator)
 * [Linggle](https://linggle.com/)：词语搭配
 * 英语文章校对：[Typely](https://typely.com/) | [Hemingway Editor](http://www.hemingwayapp.com/) | [Common Error Detector (PolyU HK)](http://www2.elc.polyu.edu.hk/cill/errordetector.htm) |
-* 用么好像没什么用删么又实在舍不得删：[Academic Word List](http://www.uefap.com/vocab/select/awl.htm) | [AWL Profiler](http://www4.caes.hku.hk/vocabulary/profile.htm) | [Green's Dictionary of Slang](https://greensdictofslang.com/) | [田间小站](https://www.tjxz.cc/) |
+* 用么好像没什么用删么又实在舍不得删：<br>[Academic Word List](http://www.uefap.com/vocab/select/awl.htm) | [AWL Profiler](http://www4.caes.hku.hk/vocabulary/profile.htm) | [Green's Dictionary of Slang](https://greensdictofslang.com/) | [田间小站](https://www.tjxz.cc/) |
 
 ### 不知道怎么归纳但还是蛮有用的看起来
 

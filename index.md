@@ -44,9 +44,10 @@
 * [Library Genesis](http://gen.lib.rus.ec/)
 * [ZLibrary.Asia](https://b-ok.as/) or [ZLibrary Articles](https://booksc.org/)
 * 全球新闻整合：[W3Newspapers](https://www.w3newspapers.com/)
-* 用处不大：[Gutenberg](http://www.gutenberg.org/) | [Planet eBook](https://www.planetebook.com/) | [Bookyards](https://www.bookyards.com/en) | [FreeBookSpot](http://www.freebookspot.es/) | [Luminos (UC Press)](https://www.luminosoa.org/site/) | [Manchester Openhive (MU Press)](https://www.manchesteropenhive.com/) | [Forgotten Books](https://www.forgottenbooks.com/en) (most need purchase) |
+* 用处不大：
+[Gutenberg](http://www.gutenberg.org/) | [Planet eBook](https://www.planetebook.com/) | [Bookyards](https://www.bookyards.com/en) | [FreeBookSpot](http://www.freebookspot.es/) | [Luminos (UC Press)](https://www.luminosoa.org/site/) | [Manchester Openhive (MU Press)](https://www.manchesteropenhive.com/) | [Forgotten Books](https://www.forgottenbooks.com/en) (most need purchase) |
 * 特别学科：
- * Feminism related: [Cita Press](https://citapress.org/#home) | [A WP blog](https://12rec5.wordpress.com/) no longer updated
+ * Feminism related: [Cita Press](https://citapress.org/#home), [A WP blog](https://12rec5.wordpress.com/) no longer updated
  * Administration related: [Open Access Gov](https://www.openaccessgovernment.org/)
  * Anthropology related: [HAU Books](https://haubooks.org/)
 * 论文（？）：[Sci-Hub](https://sci-hub.tw/)
@@ -65,7 +66,7 @@
 
 * [ひらがな めがね](http://www.hiragana.jp/index.html)：输入网址，自动加上假名注音
 * [MOJI 辞書](https://www.mojidict.com/)
-* <b><u>好用！</u></b> [DeepL Translate](https://www.deepl.com/translator)
+* <u><b>好用！</b></u> [DeepL Translate](https://www.deepl.com/translator)
 * [Linggle](https://linggle.com/)：词语搭配
 * 英语文章校对：[Typely](https://typely.com/) | [Hemingway Editor](http://www.hemingwayapp.com/) | [Common Error Detector (PolyU HK)](http://www2.elc.polyu.edu.hk/cill/errordetector.htm) |
 * 用么好像没什么用删么又实在舍不得删：[Academic Word List](http://www.uefap.com/vocab/select/awl.htm) | [AWL Profiler](http://www4.caes.hku.hk/vocabulary/profile.htm) | [Green's Dictionary of Slang](https://greensdictofslang.com/) | [田间小站](https://www.tjxz.cc/) |
@@ -76,7 +77,7 @@
 * Markdown：[Zen](https://zen.unit.ms/)
 * 方言：[溫嶺吳語微辭典](https://qaanlid.wordpress.com/?tdsourcetag=s_pcqq_aiomsg)
 * 树洞：[TzCafe 树洞](https://forms.yandex.com/u/5e26953f119d8b0d0aa434fc/)
-* 汉语能力迅速提升.jpg [写作大词海、历代古诗文 2019 下载](http://www.zhsc.com/indexgb.htm)
+* <u><b>汉语能力迅速提升.jpg</b></u> [写作大词海、历代古诗文 2019 下载](http://www.zhsc.com/indexgb.htm)
 * [Chrome 插件](https://chrome.zzzmh.cn/index)
 
 #### 乱七八糟的一堆，估计这辈子都用不上

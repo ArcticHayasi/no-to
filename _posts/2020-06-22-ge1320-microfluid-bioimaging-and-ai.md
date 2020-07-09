@@ -1,0 +1,125 @@
+---
+title: GE1320 Microfluid BioImaging and AI
+layout: post
+categories: [CityU]
+description: "Lec 5 & 6 & 7"
+---
+
+# Lec 5: Microfluidic devices for bioassay
+## 1 Diagnosis
+
+<em><u>Protease</u></em>
+* Enzyme released
+* Helps with cells migration
+* When cells start to migrate, concentration increases
+
+<em><u>Metastasis process</u></em>
+1. Driver mutation
+2. Clonal expansion
+3. Carcinoma in situ
+4. Invasion
+5. Dissemination
+6. **Micrometastases**
+7. Therapy etc
+8. Resistant clones
+9. **Metastasis**
+
+<em><u>Survival rate</u></em>
+
+|  All  |  51%  |
+| --- | --- |
+|  Breast  |  85%  |
+|  Bowel  |  54%  |
+|  Lung  |  8%  |
+
+Breast: detected in the early stage
+1. Visualised, outside main body -> easy to identify. 
+2. Not an organ for survival, outside main body -> can be removed.
+
+### Noninvasive detections
+
+<em><u>Single protein molecule detection</u></em>
+To detect very low concentration of proteins in the fluid samples, the concentration can be below 10^(-15)M
+
+* To detect frequently, must not be invasive.
+* As noninvasive, can only get low concentration samples.
+* To detect low concentration samples, must use high sensitivity technology.
+
+General strategies to achieve high sensitivity
+1. Target-based amplification (PCR)
+2. Signal-based amplification (ELISA)
+
+![](media/15935060688766.jpg)
+> 1PM(拍米)=1×10^(15)m
+1Gm(京米/吉米)=1×10^(9)m
+1Mm(兆米)=1×10^(6)m
+1km(千米)=1×10^(3)m
+1dm(分米)=1×10^(-1)m
+1cm(厘米)=1×10^(-2)m
+1mm(毫米)=1×10^(-3)m
+1dmm(丝米)=1×10^(-4)m
+1cmm(忽米)=1×10^(-5)m
+1μm(微米)=1×10^(-6)m
+1nm(纳米)=1×10^(-9)m
+1pm(皮米)=1×10^(-12)m
+1fm(飞米)=1×10^(-15)m
+1am(阿米)=1×10^(-18)m
+
+### Polymerase Chain Reaction (PCR)
+
+1. 高温下（如95℃），模版DNA解旋
+2. 温度降低时（如55℃），引物与模板DNA单链的特定互补部位相配对和结合
+3. 温度回升时（如72℃），DNA聚合酶以目的基因为模板，将4种脱氧核糖核苷酸逐个按照碱基互补配对原则连接在引物之后，使合成的新链延伸，形成互补的DNA双链。
+
+![](media/15935076932259.jpg)
+
+### Gel electrophoresis
+For separation and analysis of macromolecules (DNA, RNA and proteins) and their fragments, based on their size and charge.
+
+![](media/15935078123275.jpg)
+<em><u>To separate</u></em>
+* Nucleic acid: NA with negative electrode pass through the gel net under the electric field. Smaller, faster, further.
+* Protein: to big to cross through the gel, thus separated according to the electrodes attached to the molecules.
+
+### Enzyme-Linked Immunosorbent Assay (ELISA)
+Antibodies + colour change
+
+* (1) Sandwich ELISA
+
+![](media/15935118869010.jpg)
+1. **Capture antibody** bound to a surface
+2. **Antigen**-containing sample applied
+3. **Specific antibody** added, bound to antigen
+4. **Enzyme-linked secondary antibody** applied as detection antibody
+5. **Chemical** is added to be converted by the enzyme into a colour/fluorescent/electrochemical signal
+
+Not sensitive enough to detect most secreted biomarkers, for which the sensitivity needs to approach 10^(-15)M
+
+<em><u>To enhance sensitivity</u></em>
+
+![](media/15935123206048.jpg)
+>  为了提高ELISA的灵敏度，我们开发了一种纳米颗粒法。首先在磁性颗粒上涂上抗体，以捕获目标蛋白，然后在磁性颗粒表面添加金厌氧颗粒，使其附着在目标蛋白上，从而显示出信号。然后再加入金颗粒，使其附着在磁性颗粒表面的靶蛋白上，从而显示出信号。一旦施加了磁场，磁性颗粒就会被聚集起来以增强信号。
+
+* (2) Digital ELISA, 2μm particles, 10^(-15)M
+
+![](media/15935127128229.jpg)
+Digital Microfluidics: to automatic the previous processes by droplet moving and washing step integration
+![](media/15935132298976.jpg)
+
+-------
+
+## 2 Nanofluidics
+
+## 3 Single cell assay
+
+Fluorescence-activated cell sorting (FACS)
+> 流式细胞仪的工作原理是将待测细胞经特异性荧光染料染色后放入样品管中，在气体的压力下进入充满鞘液的流动室。在鞘液的约束下**细胞排成单列**由流动室的喷嘴**喷出**，**形成细胞柱**，后者**与入射的激光束垂直相交**，液柱中的细胞被激光激发**产生荧光**。
+
+![](media/15935140793442.jpg)
+
+## 4 Neutron chip
+## 5 Conclusions
+
+
+
+

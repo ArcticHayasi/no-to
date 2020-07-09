@@ -2,8 +2,7 @@
 title: GE1320 Oncology and Immunology
 layout: post
 categories: [CityU]
-description: "描述"
-customexcerpt: "简介"
+description: "Lec 3 & 4"
 ---
 
 # Lec 3: Oncology

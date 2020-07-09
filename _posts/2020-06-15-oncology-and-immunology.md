@@ -1,7 +1,7 @@
 ---
 title: Oncology and Immunology
 layout: post
-categories: [CityU] [Health]
+categories: [CityU]
 description: "描述"
 customexcerpt: "简介"
 ---

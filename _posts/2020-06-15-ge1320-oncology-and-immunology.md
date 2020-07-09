@@ -12,11 +12,11 @@ customexcerpt: "简介"
 
 ### Overall
 
-*_Statistics_*
+<em><u>Statistics</u></em>
 
 2018: 18 million new, 9.6 million deaths
 
-*_Most common of deaths in 2018_*
+<em><u>Most common of deaths in 2018</u></em>
 
 1. Lung (1.76 million)
 2. Colorectal (862,000)
@@ -24,7 +24,7 @@ customexcerpt: "简介"
 4. Liver (782,000)
 5. Breast (627,000)
 
-*_Differences_*
+<em><u>Differences</u></em>
 
 |    |  Female  |  Male  |
 | --- | --- | --- |
@@ -40,7 +40,7 @@ customexcerpt: "简介"
 5. Evade the immune system
 6. Keep the immune system from killing cancer cells
 
-*_VS normal cells_*
+<em><u>VS normal cells</u></em>
 * Less specialised
 
 1. Large number of dividing cells
@@ -61,7 +61,7 @@ customexcerpt: "简介"
 
 ![](media/15931540679473.jpg)
 
-*_Prefixes_*
+<em><u>Prefixes</u></em>
 
 Some Prefixed Used in Naming Cancers
 
@@ -107,18 +107,18 @@ CONCORD Study 2018:
 
 **A) Physical**
 
-_*Radiation*_
+</u></em>Radiation<em><u>
 Radiation of certain wavelengths, called ionizing radiation, has enough energy to damage DNA and cause cancer
 * Radon
 * High-energy radiation, such as x-rays, gamma rays, alpha particles, beta particles, and neutrons
 
-*_Ultraviolet radiation_*
+<em><u>Ultraviolet radiation</u></em>
 * Exposure to UV radiation causes early aging of the skin and skin damage that can lead to skin cancer
 * The sun, sunlamps, and tanning booths all give off UV radiation
 
 **B) Chemical**
 
-*_Cancer-causing substances_*
+<em><u>Cancer-causing substances</u></em>
 
 |  Eng  |  中  |
 | --- | --- |
@@ -136,14 +136,14 @@ Radiation of certain wavelengths, called ionizing radiation, has enough energy t
 |  Vinyl chloride  |  氯乙烯  |
 |  Wood dust  |  木粉  |
 
-*_Lifestyle_*
+<em><u>Lifestyle</u></em>
 * Diet
 * Alcohol
 * Tobacco
     * 9 in 10 lung cancers
     * 25-40% smokers die in middle age
 
-*_Obesity_*
+<em><u>Obesity</u></em>
 * Lifestyle: Highly caloric diet, rich in fat, refined carbohydrates and animal protein
 * Consequences:
     * Cancer
@@ -153,20 +153,20 @@ Radiation of certain wavelengths, called ionizing radiation, has enough energy t
 
 **C) Biological**
 
-*_Hormones_*
+<em><u>Hormones</u></em>
 * Estrogens
 
-*_Immunosuppression_*
+<em><u>Immunosuppression</u></em>
 “Immunosuppressive” drugs make the immune system less able to detect and destroy cancer cells or fight off infections that cause cancer
 
-*_Virus_*
+<em><u>Virus</u></em>
 * Hepatitis B Virus (HBV)
 * Human T-cell Leukaemia virus
 * Epstein Barr Virus (EBV)
 * Human Papilloma Virus (HPV)
 
-*_Bacteria_*
-*_Parasites_*
+<em><u>Bacteria</u></em>
+<em><u>Parasites</u></em>
 * Schistosoma (blood-flukes)
     * Bladder cancer
 * Clonorchis sinensis (bile duct and gall bladder)
@@ -177,10 +177,10 @@ Radiation of certain wavelengths, called ionizing radiation, has enough energy t
 
 ## 3 Diagnosis
 
-*_Why hard to diagnose?_*
+<em><u>Why hard to diagnose?</u></em>
 1/ Heterogeneity. 2/ Metastatic.
 
-*_General tech to detect_*
+<em><u>General tech to detect</u></em>
 * Clinical examination
 * Lab test (liquid biopsy), e.g. blood, urine or other body fluids
 * Biopsy and cytology tests
@@ -213,7 +213,7 @@ Increase in cases of: primary colorectal cancer or other malignancies, including
 # Lec 4: Immunology
 ## 1 General concepts
 
-*_Immunology_*
+<em><u>Immunology</u></em>
 Immune system and its response to the invading pathogens and other harmful agents
 
 **Pathogens** - capable of colonizing (infecting) humans and causing diseases
@@ -228,11 +228,11 @@ Immune system and its response to the invading pathogens and other harmful agent
 * Insect toxins
 * Bites and stings from insects bees and spiders usually cause pain, swelling, redness, and itching at the site of the sting or bite.
 
-*_Relative diseases_*
+<em><u>Relative diseases</u></em>
 
 ![](media/15931628119690.jpg)
 
-*_Role of vaccination_*
+<em><u>Role of vaccination</u></em>
 1. Mimic the threat of an infectious _pathogens_ through stimulation of the **innate immunity**
 2. Present distinct _antigens_ that can be recognized by cells of the **adaptive immune** system
 
@@ -250,7 +250,7 @@ Immune system and its response to the invading pathogens and other harmful agent
 * Mucosal immune system
 Plasma cells produce secreted lgA (slgA) who prevents microbes from generating 
 
-*_Tissues to the number of lymphocytes_*
+<em><u>Tissues to the number of lymphocytes</u></em>
 
 |  Tissue  |  Lymphocytes (million) |
 | --- | --- |
@@ -272,7 +272,7 @@ Plasma cells produce secreted lgA (slgA) who prevents microbes from generating
  
 ### Operation
 
-*_How immune system functions_*
+<em><u>How immune system functions</u></em>
 12h after infection: innate immunity; afterwards: adaptive immunity.
 1. **Block** infections and eliminate extracellular microbes via non-specific innate immune system
 2. **Cues** from the innate immune system inform the cells of the adaptive immune system as to whether it is appropriate to response and what type of response to make
@@ -299,7 +299,7 @@ Plasma cells produce secreted lgA (slgA) who prevents microbes from generating
 
 ### (3) Components
 
-*_Principle components_*
+<em><u>Principle components</u></em>
 * epithelial cells
 * sentinel cells in tissues, such as macrophages, dendritic cells, mast cells, neutrophil
 * innate lymphoid cells, such as natural killer cells
@@ -310,7 +310,7 @@ Plasma cells produce secreted lgA (slgA) who prevents microbes from generating
 * 先天淋巴细胞，如自然杀伤细胞
 * 血浆蛋白，包括补体系统的蛋白
 
-*_Roles of different types_*
+<em><u>Roles of different types</u></em>
 * **Epithelial barriers** – tightly adherent cells to provide physical and chemical barriers against infection
 * **Phagocytes** – neutrophils and macrophages are blood cells that are recruited to sites of infection, where they recognize and ingest microbes for intracellular killing
 
@@ -334,12 +334,12 @@ A collection of circulating and membrane-associated proteins. Many are proteolyt
 > 概念：补体是存在于血清、组织液和细胞膜表面的一组经活化后具有酶活性的蛋白质。
 一般性质：（1）主要由肝细胞和巨噬细胞产生。（2）大多为糖蛋白。（3）性质不稳定，容易被降解。（4）正常血清中各组分含量相差较大。
 
-*_Activation of complement cascade_*
+<em><u>Activation of complement cascade</u></em>
 * **Classical pathway** – Antibodies that bind to microbes or other antigens (Adaptive immunity)
 * **Lectin pathway** – carbohydrate-binding plasma protein, mannose-binding lectin (MBL), binds to terminal mannose residues on the surface glycoproteins of microbes. (Initiated by a microbial product in the absence of antibody – Innate immunity)
 * **Alternative pathway** – some complement proteins are activated on microbial surfaces and cannot be controlled, due to the absence of complement regulatory proteins on microbes (only presence of host cells; innate immunity)
 
-*_Functions_*
+<em><u>Functions</u></em>
 * Opsonisation and phagocytosis
 
 > Opsonisation: Coating a microbe with molecules that are recognized by receptors on phagocytes
@@ -351,7 +351,7 @@ A collection of circulating and membrane-associated proteins. Many are proteolyt
 > Forming a polymeric protein complex that inserts into the microbial cell membrane, disturbing the permeability barrier and causing either osmotic lysis or apoptosis of the microbe.
 形成一种高分子蛋白复合物，插入微生物细胞膜，扰乱渗透性屏障，引起微生物的渗透性溶解或凋亡。
 
-*_Cytokines, cell sources, cellular targets and biologic effects_*
+<em><u>Cytokines, cell sources, cellular targets and biologic effects</u></em>
 
 ![](media/15933356957277.jpg)
 ![](media/15933356957394.jpg)
@@ -383,7 +383,7 @@ Maturation of DCs:
 
 `Expression of, function...`
 
-*_Major histocompatibility complex (MHC)_*
+<em><u>Major histocompatibility complex (MHC)</u></em>
 **Function**: displaying peptides derived from protein antigen
 
 ### Antigen recognition
@@ -411,14 +411,14 @@ Drugs can be used to control the virus
 
 ### Hypersensitivity
 
-*_Allergic disorders_*
+<em><u>Allergic disorders</u></em>
 * Anaphylaxis, asthma, allergic rhinitis, atopic dermatitis, food allergy •  Atopic dermatitis (skin)
 * •  Atopic rhinitis (nasal passage)
 * •  Atopic asthma (lung)
 * •  Food allergy (gut)
 * •  Anaphylaxis (systemic)
 
-*_Pathology of hypersensitivity_*
+<em><u>Pathology of hypersensitivity</u></em>
 •  Immediate - Vasodilation, congestion and edema
 •  Late-phase – inflammatory infiltration of eosinophils, neutrophils,
 and T cells
@@ -437,12 +437,12 @@ Graft-versus-host disease (GVHD) - rejection
 # Lec 5: Microfluidic devices for bioassay
 ## 1 Diagnosis
 
-*_Protease_*
+<em><u>Protease</u></em>
 * Enzyme released
 * Helps with cells migration
 * When cells start to migrate, concentration increases
 
-*_Metastasis process_*
+<em><u>Metastasis process</u></em>
 1. Driver mutation
 2. Clonal expansion
 3. Carcinoma in situ
@@ -453,7 +453,7 @@ Graft-versus-host disease (GVHD) - rejection
 8. Resistant clones
 9. **Metastasis**
 
-*_Survival rate_*
+<em><u>Survival rate</u></em>
 
 |  All  |  51%  |
 | --- | --- |
@@ -466,7 +466,7 @@ Breast: detected in the early stage
 
 ### Noninvasive detections
 
-*_Single protein molecule detection_*
+<em><u>Single protein molecule detection</u></em>
 To detect very low concentration of proteins in the fluid samples, the concentration can be below 10^(-15)M
 
 * To detect frequently, must not be invasive.
@@ -505,7 +505,7 @@ General strategies to achieve high sensitivity
 For separation and analysis of macromolecules (DNA, RNA and proteins) and their fragments, based on their size and charge.
 
 ![](media/15935078123275.jpg)
-*_To separate_*
+<em><u>To separate</u></em>
 * Nucleic acid: NA with negative electrode pass through the gel net under the electric field. Smaller, faster, further.
 * Protein: to big to cross through the gel, thus separated according to the electrodes attached to the molecules.
 
@@ -523,7 +523,7 @@ Antibodies + colour change
 
 Not sensitive enough to detect most secreted biomarkers, for which the sensitivity needs to approach 10^(-15)M
 
-*_To enhance sensitivity_*
+<em><u>To enhance sensitivity</u></em>
 
 ![](media/15935123206048.jpg)
 >  为了提高ELISA的灵敏度，我们开发了一种纳米颗粒法。首先在磁性颗粒上涂上抗体，以捕获目标蛋白，然后在磁性颗粒表面添加金厌氧颗粒，使其附着在目标蛋白上，从而显示出信号。然后再加入金颗粒，使其附着在磁性颗粒表面的靶蛋白上，从而显示出信号。一旦施加了磁场，磁性颗粒就会被聚集起来以增强信号。

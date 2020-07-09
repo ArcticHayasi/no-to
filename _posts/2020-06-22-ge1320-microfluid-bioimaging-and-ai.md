@@ -31,7 +31,6 @@ description: "Lec 5 & 6 & 7"
 |  Breast  |  85%  |
 |  Bowel  |  54%  |
 |  Lung  |  8%  |
-
 Breast: detected in the early stage
 1. Visualised, outside main body -> easy to identify. 
 2. Not an organ for survival, outside main body -> can be removed.
@@ -39,7 +38,8 @@ Breast: detected in the early stage
 ### Noninvasive detections
 
 <em><u>Single protein molecule detection</u></em>
-To detect very low concentration of proteins in the fluid samples, the concentration can be below 10^(-15)M
+
+To detect very low concentration of proteins in the fluid samples, the concentration can be below 10<sup>-15</sup>M
 
 * To detect frequently, must not be invasive.
 * As noninvasive, can only get low concentration samples.
@@ -50,20 +50,20 @@ General strategies to achieve high sensitivity
 2. Signal-based amplification (ELISA)
 
 ![](media/15935060688766.jpg)
-> 1PM(拍米)=1×10^(15)m
-1Gm(京米/吉米)=1×10^(9)m
-1Mm(兆米)=1×10^(6)m
-1km(千米)=1×10^(3)m
-1dm(分米)=1×10^(-1)m
-1cm(厘米)=1×10^(-2)m
-1mm(毫米)=1×10^(-3)m
-1dmm(丝米)=1×10^(-4)m
-1cmm(忽米)=1×10^(-5)m
-1μm(微米)=1×10^(-6)m
-1nm(纳米)=1×10^(-9)m
-1pm(皮米)=1×10^(-12)m
-1fm(飞米)=1×10^(-15)m
-1am(阿米)=1×10^(-18)m
+> 1PM(拍米)=1×10<sup>15</sup>m<br>
+1Gm(京米/吉米)=1×10<sup>9</sup>m<br>
+1Mm(兆米)=1×10<sup>6</sup>m<br>
+1km(千米)=1×10<sup>3</sup>m<br>
+1dm(分米)=1×10<sup>-1</sup>m<br>
+1cm(厘米)=1×10<sup>-2</sup>m<br>
+1mm(毫米)=1×10<sup>-3</sup>m<br>
+1dmm(丝米)=1×10<sup>-4</sup>m<br>
+1cmm(忽米)=1×10<sup>-5</sup>m<br>
+1μm(微米)=1×10<sup>-6</sup>m<br>
+1nm(纳米)=1×10<sup>-9</sup>m<br>
+1pm(皮米)=1×10<sup>-12</sup>m<br>
+1fm(飞米)=1×10<sup>-15</sup>m<br>
+1am(阿米)=1×10<sup>-18</sup>m
 
 ### Polymerase Chain Reaction (PCR)
 
@@ -100,7 +100,7 @@ Not sensitive enough to detect most secreted biomarkers, for which the sensitivi
 ![](media/15935123206048.jpg)
 >  为了提高ELISA的灵敏度，我们开发了一种纳米颗粒法。首先在磁性颗粒上涂上抗体，以捕获目标蛋白，然后在磁性颗粒表面添加金厌氧颗粒，使其附着在目标蛋白上，从而显示出信号。然后再加入金颗粒，使其附着在磁性颗粒表面的靶蛋白上，从而显示出信号。一旦施加了磁场，磁性颗粒就会被聚集起来以增强信号。
 
-* (2) Digital ELISA, 2μm particles, 10^(-15)M
+* (2) Digital ELISA, 2μm particles, 10<sup>-15</sup>M
 
 ![](media/15935127128229.jpg)
 Digital Microfluidics: to automatic the previous processes by droplet moving and washing step integration
@@ -115,11 +115,9 @@ Digital Microfluidics: to automatic the previous processes by droplet moving and
 Fluorescence-activated cell sorting (FACS)
 > 流式细胞仪的工作原理是将待测细胞经特异性荧光染料染色后放入样品管中，在气体的压力下进入充满鞘液的流动室。在鞘液的约束下**细胞排成单列**由流动室的喷嘴**喷出**，**形成细胞柱**，后者**与入射的激光束垂直相交**，液柱中的细胞被激光激发**产生荧光**。
 
+
 ![](media/15935140793442.jpg)
+
 
 ## 4 Neutron chip
 ## 5 Conclusions
-
-
-
-

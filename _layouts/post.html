@@ -10,6 +10,7 @@
     <a href="/nooto/archive.html">Archive</a>
     <a href="/nooto/categories/">Categories</a>
   </nav>
+
   <div class="container">
     {% include header.html %}
 
@@ -33,6 +34,14 @@
 
     {% if site.data.settings.related-posts.active %}
       {% include related-posts.html %}
+    {% endif %}
+
+    {% if site.data.settings.disqus.disqus_shortname %}
+      {% include disqus.html %}
+    {% endif %}
+    
+    {% if site.gittalk.clientID and site.gittalk.clientSecret %}
+    {% include gitalk-comment.html %}
     {% endif %}
     
   </div>
